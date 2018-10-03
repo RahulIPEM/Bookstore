@@ -28,3 +28,18 @@ hr{
 .carousel-img-height{
 	height:160px;
 }
+
+.home-headline{
+	font-family:'Times New Roman', Times, serif;
+	font-size:24px;
+	color:#ffffff;
+	margin: auto;
+	text-align:center;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+.home-headline span{
+	background-color:#231F20;
+	padding:5px 22px;
+}
