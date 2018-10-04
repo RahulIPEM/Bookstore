@@ -12,6 +12,10 @@ hr{
 	width:90%;
 }
 
+.page-top{
+	margin-top:-70px;
+}
+
 .navbar {
 	margin-bottom: 20px;
 }
@@ -26,7 +30,8 @@ hr{
 }
 
 .carousel-img-height{
-	height:160px;
+	height:180px !important;
+	width:100%;
 }
 
 .home-headline{
@@ -35,8 +40,6 @@ hr{
 	color:#ffffff;
 	margin: auto;
 	text-align:center;
-	margin-top:10px;
-	margin-bottom:10px;
 }
 
 .home-headline span{
